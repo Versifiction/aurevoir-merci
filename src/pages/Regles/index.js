@@ -1,0 +1,37 @@
+import React from "react";
+import Navigation from "../../components/Navigation";
+import Footer from "../../components/Footer";
+
+function Regles() {
+  return (
+    <div classNameName="Regles">
+      <Navigation />
+      <div className="Header">
+        <div className="container mx-auto">
+          <h1 className="font-bold text-5xl pt-12 pb-12">Règles</h1>
+          <p>
+            Le but est simple : après avoir choisi un #AurevoirMerci, 10 séries
+            de 4 images vous seront proposées.
+          </p>
+          <p>
+            Pour passer à la série d'images suivante, vous devrez cliquer sur 1
+            des 4 images que vous souhaiter éliminer.
+          </p>
+          <br />
+          <p>
+            <span className="font-bold">Exemple :</span> 4 images de plats vous
+            sont proposés. Vous devrez donc éliminer celui que vous aimez le
+            moins, en cliquant dessus.
+          </p>
+          <p>
+            Une nouvelle série vous sera alors immédiatement proposée, jusqu'à
+            ce que vous atteignez la 10ème et dernière série.
+          </p>
+        </div>
+      </div>
+      <Footer />
+    </div>
+  );
+}
+
+export default Regles;
