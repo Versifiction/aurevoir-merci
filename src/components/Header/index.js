@@ -14,12 +14,16 @@ function Header() {
           />
         </div>
         <div className="flex items-center justify-center mt-4">
-          <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold mr-2 py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded-full">
-            <a href="/regles">Règles</a>
-          </button>
-          <button class="bg-orange-500 hover:bg-orange-400 text-white font-bold py-2 px-4 border-b-4 border-orange-700 hover:border-orange-500 rounded-full">
-            <a href="/jeu">Jouer</a>
-          </button>
+          <a href="/regles">
+            <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold mr-2 py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded-full">
+              Règles
+            </button>
+          </a>
+          <a href="/jeu">
+            <button class="bg-orange-500 hover:bg-orange-400 text-white font-bold py-2 px-4 border-b-4 border-orange-700 hover:border-orange-500 rounded-full">
+              Jouer
+            </button>
+          </a>
         </div>
       </div>
     </div>

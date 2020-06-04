@@ -3,7 +3,7 @@ import amLogo from "../../assets/images/am-logo.png";
 
 function Footer() {
   return (
-    <div classNameName="Footer">
+    <div className="Footer">
       <div class="bg-gray-800 text-gray-300">
         <div className="container mx-auto flex items-center flex-wrap">
           <div class="w-full p-3">

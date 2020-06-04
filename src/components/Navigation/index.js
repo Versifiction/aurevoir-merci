@@ -3,7 +3,7 @@ import amLogo from "../../assets/images/am-logo.png";
 
 function Navigation() {
   return (
-    <div classNameName="Navigation">
+    <div className="Navigation">
       <nav className=" bg-orange-500 p-6">
         <div className="container mx-auto flex items-center justify-between flex-wrap">
           <div className="flex items-center flex-shrink-0 text-white mr-6">

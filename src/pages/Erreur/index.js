@@ -4,7 +4,7 @@ import Footer from "../../components/Footer";
 
 function Erreur() {
   return (
-    <div classNameName="Erreur">
+    <div className="Erreur">
       <Navigation />
       <div className="Header">
         <div className="container mx-auto">

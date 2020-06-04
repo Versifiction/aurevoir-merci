@@ -4,7 +4,7 @@ import Footer from "../../components/Footer";
 
 function Contact() {
   return (
-    <div classNameName="Contact">
+    <div className="Contact">
       <Navigation />
       <div className="Header">
         <div className="container mx-auto">

@@ -4,7 +4,7 @@ import Footer from "../../components/Footer";
 
 function APropos() {
   return (
-    <div classNameName="APropos">
+    <div className="APropos">
       <Navigation />
       <div className="Header">
         <div className="container mx-auto">

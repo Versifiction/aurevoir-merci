@@ -3,6 +3,11 @@ module.exports = {
   important: false,
   separator: ":",
   theme: {
+    inset: {
+      "0": 0,
+      auto: "auto",
+      "1/2": "50%",
+    },
     screens: {
       sm: "640px",
       md: "768px",

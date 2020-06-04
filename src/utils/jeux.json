@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "tags": [
+      "#Actions",
+      "#AppareilsApple",
+      "#Boissons",
+      "#DessinsAnimés",
+      "#FastFoods",
+      "#Fruits",
+      "#Jeux",
+      "#Kardashians",
+      "#MagasinsVêtements",
+      "#MarquesEau"
+    ],
+    "titles": [
+      "Actions",
+      "Appareils Apple",
+      "Boissons",
+      "Dessins Animés",
+      "Fast Foods",
+      "Fruits",
+      "Jeux",
+      "Kardashians",
+      "Magasins de vêtements",
+      "Marques d'eau"
+    ],
+    "images": [
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/27/20042709145427041.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/27/200427091454146844.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/27/200427091454402613.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/27/200427091454700451.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/27/200427093636138016.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/27/200427093636251590.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/27/200427093636506051.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/27/mini_200427093636761582.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/200428100552638522.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428100552766737.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/20042810055324015.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/200428100553285189.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/200428101044137212.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428101044274201.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/200428101044530921.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/200428101044780445.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/200428101122787163.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428101122907827.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/200428101123168271.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/200428101123422856.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/200428101200161169.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428101200393429.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/200428101200645691.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/200428101200899010.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/200428101327517274.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428101327644046.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/200428101327933744.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/200428101328177398.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/200428101400215864.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428101400634609.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/200428101400885475.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/200428101401144936.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/200428101431372242.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428101431486607.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/200428101431743289.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/2004281014315816.jpg"
+      },
+      {
+        "img1": "https://nsa40.casimages.com/img/2020/04/28/20042810150089353.jpg",
+        "img2": "https://nsa40.casimages.com/img/2020/04/28/200428101500218703.jpg",
+        "img3": "https://nsa40.casimages.com/img/2020/04/28/200428101500470017.jpg",
+        "img4": "https://nsa40.casimages.com/img/2020/04/28/200428101500733619.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tags": [
+      "#OpérateursTéléphoniques",
+      "#TypesPâtes",
+      "#PlateformesSéries",
+      "#PlateformesStreaming",
+      "#PrésidentsFrançais",
+      "#RappeursFrançais",
+      "#Rappeuses",
+      "#RéseauxSociaux",
+      "#SériesNetflix",
+      "#Sucreries"
+    ],
+    "titles": [
+      "Opérateurs téléphoniques",
+      "Types de pâtes",
+      "Plateformes de séries",
+      "Plateformes de streaming",
+      "Présidents français",
+      "Rappeurs français",
+      "Rappeuses",
+      "Réseaux sociaux",
+      "Séries Netflix",
+      "Sucreries"
+    ]
+  }
+]
